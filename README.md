@@ -12,10 +12,11 @@ This definitely my interest in the various data structures and implementations o
     ├── CHANGELOG.md                  # maintain the changelog of this library
     ├── TODO.md                       # todo tasks for this library
     └── README.md                     # description
+    
 ### TODO
-See todo list - [TODO](http://www.example.com)
+See todo list - [TODO](https://github.com/fsdevelopers/cpp-datastructures/blob/master/TODO.md)
 
 ### CHANGELOG
-See changelog - [CHANGELOG](http://www.example.com)
+See changelog - [CHANGELOG](https://github.com/fsdevelopers/cpp-datastructures/blob/master/CHANGELOG.md)
 
 
