@@ -23,7 +23,5 @@ namespace Array {
 		return max_number;
 	}
 
-	void Display(string input) {
-		cout << "this is me "<<input;
-	}
+
 }
